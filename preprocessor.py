@@ -1,5 +1,5 @@
 import pandas as pd
-import re
+import regex as re
 
 
 # This function takes an input of a HUGE text and inturn it will output a DataFrame
